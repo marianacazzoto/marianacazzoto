@@ -1,4 +1,4 @@
-### Olá, eu sou a Mariana Cazzoto �🏽
+### Olá, eu sou a Mariana Cazzoto 👋
 
 - 🌱Análise e Desenvolvimento de Sistemas
 <div>
