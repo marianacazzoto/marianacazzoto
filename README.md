@@ -1,6 +1,6 @@
 ### Olá, eu sou a Mariana Cazzoto 👋
 
-- 🌱Análise e Desenvolvimento de Sistemas
+- Cursando Análise e Desenvolvimento de Sistemas
 
  <div>
         <a href="https://github.com/marianacazzoto">
