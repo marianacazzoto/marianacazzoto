@@ -16,4 +16,6 @@
   <img align="center" alt="mariana-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mariana-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   
+ ! [Snake animation](https://github.com/marianacazzoto/marianacazzoto/blob/output/gitbub-contribution-grid-snake.svg)
+ 
 </div>
