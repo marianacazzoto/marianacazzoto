@@ -1,3 +1,4 @@
+
 ## Olá, eu sou a Mariana Cazzoto ☺️
 
 - Cursando Análise e Desenvolvimento de Sistemas
@@ -10,7 +11,7 @@
          
  <br>
 
-## Linguagens 📚     
+## Linguagens: 📚     
          
 <div style="display: inline_block">
   
@@ -24,7 +25,7 @@
        
 <br>
 
-## Contatos 📱      
+## Contatos: 📱      
          
 <div> 
   
