@@ -1,8 +1,6 @@
-### Olá, eu sou a Mariana Cazzoto 👋
+## Olá, eu sou a Mariana Cazzoto ☺️
 
 - Cursando Análise e Desenvolvimento de Sistemas
-
-<br>
 
  <div >
         <a href="https://github.com/marianacazzoto">
@@ -10,7 +8,9 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacazzoto&layout=compact&langs_count=7&theme=dark"/
 </div>
          
- <br><br>
+ <br>
+
+## Linguagens 📚     
          
 <div style="display: inline_block">
   
@@ -22,7 +22,9 @@
    
 </div>
        
-<br><br>
+<br>
+
+## Contatos 📱      
          
 <div> 
   
