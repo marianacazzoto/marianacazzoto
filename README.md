@@ -1,35 +1,38 @@
-
 ## Olá, eu sou a Mariana Cazzoto ☺️
 
-- Cursando Análise e Desenvolvimento de Sistemas
+- Técnica de Segurança da Informação
+- Formada em Análise e Desenvolvimento de Sistemas
+- Apaixonada por programação Backend
 
- <div align="le">
-        <a href="https://github.com/marianacazzoto">
-        <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=marianacazzoto&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianacazzoto&layout=compact&langs_count=7&theme=light"/
+<div align="center"> 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianacazzoto&theme=transparent&&bg_color=000&border_color=FFF&title_color=c8a2c8&text_color=c8a2c8)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marianacazzoto&bg_color=000&border_color=FFF&title_color=c8a2c8&text_color=c8a2c8)
+
 </div>
 
-## Linguagens: 📚     
-         
-<div  align="left" style="display: inline_block">
-  
-  <img align="center" alt="marianacazzoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="marianacazzoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="marianacazzoto-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="marianacazzoto-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="marianacazzoto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="marianacazzoto-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="marianacazzoto-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-</div>
-
-## Contatos: 📱      
+## Conecte-se Comigo:   
          
 <div align="left" > 
-  
-  <a href = "mailto:mariana.cazzoto02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <br>
-  <a href="https://www.linkedin.com/in/mariana-cazzoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+  <a href="https://www.linkedin.com/in/mariana-cazzoto/">
+
+  ![LINKEDIN](https://img.shields.io/badge/Linkedin-FFF?style=for-the-badge&logo=linkedin&logoColor=c8a2c8)
+  </a>
+
 </div>
+
+
+## Hard Skills:   
          
-![Snake animation](https://github.com/marianacazzoto/marianacazzoto/blob/output/github-contribution-grid-snake.svg)
+<div  align="left" style="display: inline_block">
+
+ ![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python&logoColor=c8a2c8)
+ ![HTML](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5&logoColor=c8a2c8)
+ ![CSS](https://img.shields.io/badge/CSS-FFF?style=for-the-badge&logo=css3&logoColor=c8a2c8)
+ ![MySQL](https://img.shields.io/badge/Mysql-FFF?style=for-the-badge&logo=mysql&logoColor=c8a2c8)
+ ![JavaScript](https://img.shields.io/badge/Javascript-FFF?style=for-the-badge&logo=javascript&logoColor=c8a2c8)
+ ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=Java&logoColor=c8a2c8)
+ ![API REST](https://img.shields.io/badge/API%20REST-FFF?style=for-the-badge&logo=api&logoColor=c8a2c8)
+ ![SpringBoot](https://img.shields.io/badge/SpringBoot-FFF?style=for-the-badge&logo=spring&logoColor=c8a2c8)
+</div>
