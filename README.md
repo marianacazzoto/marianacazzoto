@@ -1,8 +1,8 @@
 ## Olá, eu sou a Mariana Cazzoto ☺️
 
-- Técnica de Segurança da Informação
 - Formada em Análise e Desenvolvimento de Sistemas
-- Apaixonada por programação Backend
+- Técnica de Segurança da Informação
+- Apaixonada por desenvolvimento Backend
 
 <div align="center"> 
 
