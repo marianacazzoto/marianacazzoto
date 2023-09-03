@@ -6,8 +6,8 @@
 
 <div align="center"> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianacazzoto&theme=transparent&&bg_color=000&border_color=FFF&title_color=c8a2c8&text_color=c8a2c8)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marianacazzoto&bg_color=000&border_color=FFF&title_color=c8a2c8&text_color=c8a2c8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianacazzoto&theme=transparent&&bg_color=c8a2c8&border_color=fff&title_color=000&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marianacazzoto&bg_color=c8a2c8&border_color=FFF&title_color=000&text_color=FFF)
 
 </div>
 
